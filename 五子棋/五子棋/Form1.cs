@@ -11,7 +11,7 @@ using System.Timers;
 using System.Text.RegularExpressions;
 using System.IO;
 using System.Collections.Specialized;
-
+//这是一个测试
 namespace 五子棋
 {
     public partial class Form1 : Form
